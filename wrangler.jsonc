@@ -1,7 +1,7 @@
 {
   "name": "webhook-test",
   "main": "src/index.ts",
-  "compatibility_date": "2024-10-18",
+  "compatibility_date": "2025-11-20",
   "observability": {
     "enabled": true
   }
